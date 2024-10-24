@@ -1,4 +1,4 @@
-
+![logo](https://github.com/KKaranSinghh/KKaranSinghh/blob/main/data%20analyst%20git%20photo.png?raw=true)
 ## Hi there 👋
 
 # 💫 About Me:
