@@ -2,7 +2,7 @@
 ## Hi there I'm Karan👋
 
 # 💫 About Me:
-👋 Hi, I'm Karan Singh<br>I’m a data analytics enthusiast with a passion for transforming raw data into meaningful insights and visual stories. I enjoy working on data-driven projects and continuously learning about the latest tools and techniques in the field of data science and analytics.<br><br>💡 What I do:<br><br>Clean, analyze, and visualize data to solve real-world problems<br>Create dashboards and reports using tools like Excel, Power BI, and Python<br>Explore datasets and share insights through compelling visualizations<br>📊 Technologies I work with:<br><br>Languages: Python, SQL<br>Tools: Excel, Power BI, Jupyter, Pandas, Matplotlib, Seaborn<br>Data visualization: Excel dashboards, Plotly, Power BI
+👋 Hi, I'm Karan Singh<br>I’m a data analytics enthusiast with a passion for transforming raw data into meaningful insights and visual stories. I enjoy working on data-driven projects and continuously learning about the latest tools and techniques in the field of data science and analytics.<br><br>💡 What I do:<br><br>Clean, analyze, and visualize data to solve real-world problems<br>Create dashboards and reports using tools like Excel, Power BI, My SQL and Python<br>Explore datasets and share insights through compelling visualizations<br>📊 Technologies I work with:<br><br>Languages: Python, SQL<br>Tools: Excel, Power BI, Jupyter, Pandas, Matplotlib, Seaborn<br>Data visualization: Excel dashboards, Plotly, Power BI
 
 
 ## 🌐 Socials:
